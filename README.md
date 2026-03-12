@@ -1,28 +1,38 @@
-# Hi 👋 I'm Tanuja
+<h1 align="center">👋 Hello There! I'm Tanuja 👋</h1>
 
-💻 Aspiring Full Stack Developer  
-🌱 Currently learning Web Development  
-🎯 Interested in building responsive websites and web applications  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7D774&center=true&vCenter=true&lines=Full+Stack+Developer;Web+Developer;Always+Learning+New+Things" />
+</p>
 
-## 🚀 Skills
 
-- HTML
-- CSS
-- Bootstrap
-- Python
-- JavaScript (Learning)
+## 👩‍💻 About me
 
+<img align="right" alt="coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+- 🎓 I'm currently learning **Full Stack Development**
+- 💻 I'm currently working on **Web Development Projects**
+- 📚 Always learning **new technologies**
+- 💬 Ask me about **HTML, CSS, Bootstrap, Python**
+- 🚀 Goal: Become a **Professional Web Developer**
+
+---
+
+## 🛠 Skills
+
+HTML | CSS | Bootstrap | Python | JavaScript
+
+---
 
 ## 📂 Projects
 
-🔹 Portfolio Website  
-Responsive portfolio website built using HTML, CSS and Bootstrap.
+- 🌐 Portfolio Website  
+- 📝 Python Challenges 
+- 📄 Bank Website 
 
-🔹 Bank website 
- Task web application.
+---
 
+## 🌐 Connect with me
 
-## 🔗 Connect With Me
+LinkedIn: https://www.linkedin.com/in/tanuja-bairwa/  
 
-LinkedIn:https://www.linkedin.com/in/tanuja-bairwa/    
-Email: tannu6884@gmail.com
+GitHub: https://github.com/msbatb
