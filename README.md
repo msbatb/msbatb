@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Tanuja
 
-<!--
-**msbatb/msbatb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Full Stack Developer  
+🌱 Currently learning Web Development  
+🎯 Interested in building responsive websites and web applications  
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- Bootstrap
+- Python
+- JavaScript (Learning)
+
+
+## 📂 Projects
+
+🔹 Portfolio Website  
+Responsive portfolio website built using HTML, CSS and Bootstrap.
+
+🔹 Bank website 
+ Task web application.
+
+
+## 🔗 Connect With Me
+
+LinkedIn:https://www.linkedin.com/in/tanuja-bairwa/    
+Email: tannu6884@gmail.com
